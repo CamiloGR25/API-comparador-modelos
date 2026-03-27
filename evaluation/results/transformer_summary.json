@@ -1,0 +1,48 @@
+{
+  "model": "transformer",
+  "examples": 30,
+  "exact_match": 0.9667,
+  "avg_token_f1": 0.9741,
+  "by_category": {
+    "analisis_sentimiento": {
+      "count": 4,
+      "exact_match": 1.0,
+      "avg_token_f1": 1.0
+    },
+    "correos_corporativos": {
+      "count": 2,
+      "exact_match": 1.0,
+      "avg_token_f1": 1.0
+    },
+    "documentos_procesos": {
+      "count": 8,
+      "exact_match": 1.0,
+      "avg_token_f1": 1.0
+    },
+    "priorizacion_incidentes": {
+      "count": 1,
+      "exact_match": 1.0,
+      "avg_token_f1": 1.0
+    },
+    "proyectos_reuniones": {
+      "count": 4,
+      "exact_match": 1.0,
+      "avg_token_f1": 1.0
+    },
+    "referencias_contexto": {
+      "count": 4,
+      "exact_match": 1.0,
+      "avg_token_f1": 1.0
+    },
+    "servicio_cliente": {
+      "count": 2,
+      "exact_match": 1.0,
+      "avg_token_f1": 1.0
+    },
+    "soporte_tecnico": {
+      "count": 5,
+      "exact_match": 0.8,
+      "avg_token_f1": 0.8444
+    }
+  }
+}

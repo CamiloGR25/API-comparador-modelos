@@ -1,0 +1,56 @@
+hola
+hola como estas
+estoy bien
+gracías
+mi nombre es ana
+hola ana
+mi nombre es juan
+hola juan
+ana fue al mercado
+juan fue al parque
+ana compro pan
+juan compro agua
+ella compro pan
+el compro agua
+quien compro pan
+ana compro pan
+quien compro agua
+juan compro agua
+ana fue con maria al mercado
+maria compro leche
+ana compro pan
+a donde fue ana
+ana fue al mercado
+quien fue al parque
+juan fue al parque
+quien fue al mercado
+ana fue al mercado
+mi color favorito es azul
+cual es mi color favorito
+azul
+recuerda mi nombre es carlos
+cual es mi nombre
+carlos
+maria fue a la tienda y ella compro arroz
+quien compro arroz
+maria compro arroz
+pedro fue a la escuela y luego pedro llego a casa
+quien llego a casa
+pedro llego a casa
+la fruta favorita de laura es mango
+cual es la fruta favorita de laura
+mango
+sofia vive en bogota
+where does sofia live
+sofia vive en bogota
+hoy hace frio
+como esta el clima
+hace frio
+ana y juan fueron al mercado
+quien fue al mercado
+ana y juan fueron al mercado
+ana llevo pan y juan llevo agua
+quien llevo agua
+juan llevo agua
+quien llevo pan
+ana llevo pan

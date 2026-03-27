@@ -1,0 +1,272 @@
+[
+  {
+    "id": 1,
+    "category": "correos_corporativos",
+    "input": "asunto: entrega de informe mensual. se informa que el cierre del informe mensual pasa del día 28 al día 26 para cumplir con la auditoría interna. por favor ajustar sus entregables. pregunta: ¿qué cambio operativo se informó?",
+    "target": "el cierre del informe mensual pasó del día 28 al 26.",
+    "prediction": "el cierre del informe mensual pasó del día 28 al 26.",
+    "exact_match": 1,
+    "token_f1": 1.0
+  },
+  {
+    "id": 2,
+    "category": "documentos_procesos",
+    "input": "la política de viáticos fue revisada en febrero, comentada por finanzas en marzo y aprobada por dirección en abril. la edición aprobada fue la versión 5. ¿qué edición fue aprobada?",
+    "target": "la versión 5.",
+    "prediction": "la versión 5.",
+    "exact_match": 1,
+    "token_f1": 1.0
+  },
+  {
+    "id": 3,
+    "category": "referencias_contexto",
+    "input": "laura revisó el informe de compras y luego se lo envió a andrés para aprobación. él pidió corregir la sección de costos. ¿quién pidió corregir la sección de costos?",
+    "target": "andrés.",
+    "prediction": "andrés.",
+    "exact_match": 1,
+    "token_f1": 1.0
+  },
+  {
+    "id": 4,
+    "category": "proyectos_reuniones",
+    "input": "primero se levantaron requisitos del cliente, después se diseñó el flujo de atención y finalmente se publicó la versión piloto. ¿qué se publicó finalmente?",
+    "target": "la versión piloto.",
+    "prediction": "la versión piloto.",
+    "exact_match": 1,
+    "token_f1": 1.0
+  },
+  {
+    "id": 5,
+    "category": "correos_corporativos",
+    "input": "asunto: incidente de red. equipo, desde las 7:40 a. m. la sede norte presenta intermitencia en la red. infraestructura ya está revisando el router principal. compartiremos avances al mediodía. pregunta: ¿qué incidente se reporta?",
+    "target": "intermitencia en la red en la sede norte.",
+    "prediction": "intermitencia en la red en la sede norte.",
+    "exact_match": 1,
+    "token_f1": 1.0
+  },
+  {
+    "id": 6,
+    "category": "proyectos_reuniones",
+    "input": "primero se levantaron requisitos del cliente, después se diseñó el flujo de atención y finalmente se publicó la versión piloto. ¿qué se publicó finalmente?",
+    "target": "la versión piloto.",
+    "prediction": "la versión piloto.",
+    "exact_match": 1,
+    "token_f1": 1.0
+  },
+  {
+    "id": 7,
+    "category": "referencias_contexto",
+    "input": "carlos entregó el contrato a juliana y ella lo remitió a jurídica. ¿quién lo remitió a jurídica?",
+    "target": "juliana.",
+    "prediction": "juliana.",
+    "exact_match": 1,
+    "token_f1": 1.0
+  },
+  {
+    "id": 8,
+    "category": "soporte_tecnico",
+    "input": "el cliente de la sede medellín reporta que en el portal de clientes la pantalla queda en blanco desde esta mañana. indica que ya cambió la contraseña y el problema continúa. ¿cuál es el incidente principal?",
+    "target": "la pantalla queda en blanco.",
+    "prediction": "la pantalla queda en blanco.",
+    "exact_match": 1,
+    "token_f1": 1.0
+  },
+  {
+    "id": 9,
+    "category": "documentos_procesos",
+    "input": "la política de viáticos fue revisada en febrero, comentada por finanzas en marzo y aprobada por dirección en abril. la edición aprobada fue la versión 5. ¿qué edición fue aprobada?",
+    "target": "la versión 5.",
+    "prediction": "la versión 5.",
+    "exact_match": 1,
+    "token_f1": 1.0
+  },
+  {
+    "id": 10,
+    "category": "priorizacion_incidentes",
+    "input": "un usuario solicita cambio de firma en el correo. al mismo tiempo, el portal de pagos no permite procesar transacciones. ¿qué incidente debe priorizarse?",
+    "target": "el portal de pagos no permite procesar transacciones.",
+    "prediction": "el portal de pagos no permite procesar transacciones.",
+    "exact_match": 1,
+    "token_f1": 1.0
+  },
+  {
+    "id": 11,
+    "category": "documentos_procesos",
+    "input": "el área de talento humano recibió tres propuestas de capacitación. la primera fue descartada por costo y la segunda por disponibilidad. la aprobada fue la tercera propuesta, denominada liderazgo 360. ¿cuál propuesta fue aprobada?",
+    "target": "liderazgo 360.",
+    "prediction": "liderazgo 360.",
+    "exact_match": 1,
+    "token_f1": 1.0
+  },
+  {
+    "id": 12,
+    "category": "servicio_cliente",
+    "input": "la usuaria comenta que logró crear la cuenta, aunque no recibió el correo de activación y no puede finalizar el registro. ¿cuál es el problema principal?",
+    "target": "no recibió el correo de activación.",
+    "prediction": "no recibió el correo de activación.",
+    "exact_match": 1,
+    "token_f1": 1.0
+  },
+  {
+    "id": 13,
+    "category": "referencias_contexto",
+    "input": "el analista envió el reporte al gerente y este pidió validar los indicadores antes de publicarlo. ¿quién pidió validar los indicadores?",
+    "target": "el gerente.",
+    "prediction": "el gerente.",
+    "exact_match": 1,
+    "token_f1": 1.0
+  },
+  {
+    "id": 14,
+    "category": "soporte_tecnico",
+    "input": "el cliente de la sede bucaramanga reporta que en el plataforma de nómina el sistema no carga desde esta mañana. indica que ya verificó la conexión a internet y el problema continúa. ¿cuál es el incidente principal?",
+    "target": "el sistema no carga.",
+    "prediction": "el sistema no carga.",
+    "exact_match": 1,
+    "token_f1": 1.0
+  },
+  {
+    "id": 15,
+    "category": "proyectos_reuniones",
+    "input": "el equipo de compras validó proveedores, finanzas revisó costos y dirección autorizó la contratación. ¿qué autorizó dirección?",
+    "target": "la contratación.",
+    "prediction": "la contratación.",
+    "exact_match": 1,
+    "token_f1": 1.0
+  },
+  {
+    "id": 16,
+    "category": "documentos_procesos",
+    "input": "el procedimiento de compras cambió en 2023. en enero de 2024 se consolidaron observaciones y en mayo de 2024 se publicó el texto definitivo. el documento activo es el pr-com-07. ¿cuál es el documento activo?",
+    "target": "pr-com-07.",
+    "prediction": "pr-com-07.",
+    "exact_match": 1,
+    "token_f1": 1.0
+  },
+  {
+    "id": 17,
+    "category": "documentos_procesos",
+    "input": "el procedimiento de compras cambió en 2023. en enero de 2024 se consolidaron observaciones y en mayo de 2024 se publicó el texto definitivo. el documento activo es el pr-com-07. ¿cuál es el documento activo?",
+    "target": "pr-com-07.",
+    "prediction": "pr-com-07.",
+    "exact_match": 1,
+    "token_f1": 1.0
+  },
+  {
+    "id": 18,
+    "category": "analisis_sentimiento",
+    "input": "reseña: el proceso de compra fue sencillo, el asesor resolvió mis dudas y el pedido llegó antes de lo prometido. estoy satisfecho con el servicio. pregunta: ¿la evaluación final es positiva, negativa o neutra?",
+    "target": "positiva.",
+    "prediction": "positiva.",
+    "exact_match": 1,
+    "token_f1": 1.0
+  },
+  {
+    "id": 19,
+    "category": "soporte_tecnico",
+    "input": "el cliente de la sede bucaramanga reporta que en el plataforma de nómina la pantalla queda en blanco desde esta mañana. indica que ya verificó la conexión a internet y el problema continúa. ¿cuál es el incidente principal?",
+    "target": "la pantalla queda en blanco.",
+    "prediction": "aparece un error 500.",
+    "exact_match": 0,
+    "token_f1": 0.0
+  },
+  {
+    "id": 20,
+    "category": "soporte_tecnico",
+    "input": "el cliente de la sede medellín reporta que en el aplicación de ventas no puede ingresar desde esta mañana. indica que ya cerró y abrió la sesión y el problema continúa. ¿cuál es el incidente principal?",
+    "target": "no puede ingresar al sistema.",
+    "prediction": "aparece un error 500.",
+    "exact_match": 0,
+    "token_f1": 0.0
+  },
+  {
+    "id": 21,
+    "category": "servicio_cliente",
+    "input": "la compradora confirma que el producto funciona bien, sin embargo solicita copia del manual y del certificado de garantía. ¿qué está solicitando?",
+    "target": "solicita el manual y el certificado de garantía.",
+    "prediction": "solicita el manual y el certificado de garantía.",
+    "exact_match": 1,
+    "token_f1": 1.0
+  },
+  {
+    "id": 22,
+    "category": "analisis_sentimiento",
+    "input": "reseña: el empaque llegó dañado y el artículo no coincidía con la descripción. aunque hicieron el reembolso, la experiencia fue mala. pregunta: ¿la evaluación final es positiva, negativa o neutra?",
+    "target": "negativa.",
+    "prediction": "negativa.",
+    "exact_match": 1,
+    "token_f1": 1.0
+  },
+  {
+    "id": 23,
+    "category": "proyectos_reuniones",
+    "input": "primero se levantaron requisitos del cliente, después se diseñó el flujo de atención y finalmente se publicó la versión piloto. ¿qué se publicó finalmente?",
+    "target": "la versión piloto.",
+    "prediction": "la versión piloto.",
+    "exact_match": 1,
+    "token_f1": 1.0
+  },
+  {
+    "id": 24,
+    "category": "analisis_sentimiento",
+    "input": "reseña: el proceso de compra fue sencillo, el asesor resolvió mis dudas y el pedido llegó antes de lo prometido. estoy satisfecho con el servicio. pregunta: ¿la evaluación final es positiva, negativa o neutra?",
+    "target": "positiva.",
+    "prediction": "positiva.",
+    "exact_match": 1,
+    "token_f1": 1.0
+  },
+  {
+    "id": 25,
+    "category": "referencias_contexto",
+    "input": "el analista envió el reporte al gerente y este pidió validar los indicadores antes de publicarlo. ¿quién pidió validar los indicadores?",
+    "target": "el gerente.",
+    "prediction": "el gerente.",
+    "exact_match": 1,
+    "token_f1": 1.0
+  },
+  {
+    "id": 26,
+    "category": "documentos_procesos",
+    "input": "la política de viáticos fue revisada en febrero, comentada por finanzas en marzo y aprobada por dirección en abril. la edición aprobada fue la versión 5. ¿qué edición fue aprobada?",
+    "target": "la versión 5.",
+    "prediction": "la versión 5.",
+    "exact_match": 1,
+    "token_f1": 1.0
+  },
+  {
+    "id": 27,
+    "category": "documentos_procesos",
+    "input": "el comité aprobó la actualización del protocolo de seguridad en enero. en marzo, jurídica solicitó ajustes menores. en abril se emitió el documento final. la versión vigente quedó registrada como 3.2. ¿qué versión quedó vigente?",
+    "target": "3.2.",
+    "prediction": "3.2.",
+    "exact_match": 1,
+    "token_f1": 1.0
+  },
+  {
+    "id": 28,
+    "category": "documentos_procesos",
+    "input": "el área de talento humano recibió tres propuestas de capacitación. la primera fue descartada por costo y la segunda por disponibilidad. la aprobada fue la tercera propuesta, denominada liderazgo 360. ¿cuál propuesta fue aprobada?",
+    "target": "liderazgo 360.",
+    "prediction": "liderazgo 360.",
+    "exact_match": 1,
+    "token_f1": 1.0
+  },
+  {
+    "id": 29,
+    "category": "soporte_tecnico",
+    "input": "el cliente de la sede bucaramanga reporta que en el plataforma de nómina no puede ingresar desde esta mañana. indica que ya verificó la conexión a internet y el problema continúa. ¿cuál es el incidente principal?",
+    "target": "no puede ingresar al sistema.",
+    "prediction": "no puede ingresar al sistema.",
+    "exact_match": 1,
+    "token_f1": 1.0
+  },
+  {
+    "id": 30,
+    "category": "analisis_sentimiento",
+    "input": "reseña: el proceso de compra fue sencillo, el asesor resolvió mis dudas y el pedido llegó antes de lo prometido. estoy satisfecho con el servicio. pregunta: ¿la evaluación final es positiva, negativa o neutra?",
+    "target": "positiva.",
+    "prediction": "positiva.",
+    "exact_match": 1,
+    "token_f1": 1.0
+  }
+]
